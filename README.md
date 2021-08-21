@@ -6,7 +6,7 @@ Instructor: Renee Riley
 <br>
 
 ## Projects
-#### Hello World
+#### [Hello World](https://github.com/jw0013826/CIS170/tree/master/HelloWorld)
 08/21/2021 - Setup Course Setup Information
 [Using NetBeans - Instructor VIDEO](https://youtu.be/c8mFOu-meao)
 ###
