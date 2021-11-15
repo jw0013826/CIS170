@@ -1,3 +1,7 @@
 {
-    "maven.view": "hierarchical"
+    "maven.view": "hierarchical",
+    "java.project.sourcePaths": [
+        "ComputeCDValue/src",
+        "Exercise10_3/src/exercise10_3"
+    ]
 }
